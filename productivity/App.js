@@ -7,7 +7,8 @@ export default function App() {
       <Text>1. Clone the Repo</Text>
       <Text>2. Create a Branch</Text>
       <Text>3. Code in your .js file in Components Folder</Text>
-      <Text>4. Commit your changes, DON'T MERGE TO MAIN YET!!!!!</Text>
+      <Text>4. To see your code you have to cd in poductivity and run npm start</Text>
+      <Text>5. Commit your changes, DON'T MERGE TO MAIN YET!!!!!</Text>
       <StatusBar style="auto" />
     </View>
   );
